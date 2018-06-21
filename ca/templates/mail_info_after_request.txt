@@ -5,7 +5,7 @@ Menschen teilen möchtest und haben deine Zertifikatsanforderung
 erhalten.
 
 Leider kann sich das Ausstellen des Zertifikates bis zu zwei
-Wochen hinziehen, da das unsere Community-Tunnel-Administratoren
+Wochen hinziehen, da das unsere Community-Tunnel-Administrator_innen
 in liebevoller Handarbeit machen.
 
 Wenn Dein Zertifikat erstellt wurde, bekommst Du es per E-Mail.
